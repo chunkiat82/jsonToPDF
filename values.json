@@ -1,0 +1,330 @@
+{
+  "results": [
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T01:00:00.000Z",
+        "createdAt": "2019-06-08T03:35:57.513Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "625e30f0-8670-11e9-98e1-a7cdc4526f6f",
+        "items": [
+          {
+            "id": "service:4",
+            "name": "Lashes - Touch Up - Dense",
+            "price": 25,
+            "type": "service"
+          },
+          {
+            "id": "service:5",
+            "name": "Eye Mask",
+            "price": 5,
+            "type": "service"
+          }
+        ],
+        "name": "Nazira",
+        "product": 0,
+        "resourceName": "people/c7815066197922562689",
+        "service": 30,
+        "totalAmount": 30
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T01:30:00.000Z",
+        "createdAt": "2019-06-08T02:36:23.187Z",
+        "deposit": 0,
+        "discount": 5,
+        "id": "9fa47020-8443-11e9-98e1-a7cdc4526f6f",
+        "items": [
+          {
+            "id": "service:20182",
+            "name": "Lashes - Full Set - Natural",
+            "price": 55,
+            "type": "service"
+          },
+          {
+            "id": "service:17",
+            "name": "Threading - Eyebrow ",
+            "price": 5,
+            "type": "service"
+          },
+          {
+            "id": "service:5",
+            "name": "Eye Mask",
+            "price": 5,
+            "type": "service"
+          }
+        ],
+        "name": "Eileen Chen",
+        "product": 0,
+        "resourceName": "people/c544734743972858229",
+        "service": 65,
+        "totalAmount": 60
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T02:30:00.000Z",
+        "createdAt": "2019-05-09T05:26:43.738Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "08639c20-721b-11e9-b40e-9b8bd9964cf7",
+        "items": [
+          {
+            "id": "service:20181",
+            "name": "Lashes - Full Set - Dense",
+            "price": 65,
+            "type": "service"
+          },
+          {
+            "id": "service:5",
+            "name": "Eye Mask",
+            "price": 5,
+            "type": "service"
+          }
+        ],
+        "name": "Geri Baird",
+        "product": 0,
+        "resourceName": "people/c6683022222214948330",
+        "service": 70,
+        "totalAmount": 70
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T04:00:00.000Z",
+        "createdAt": "2019-05-04T05:41:24.816Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "41795620-6e2f-11e9-94c8-494cd2e6400c",
+        "items": [
+          {
+            "id": "service:20181",
+            "name": "Lashes - Full Set - Dense",
+            "price": 65,
+            "type": "service"
+          },
+          {
+            "id": "service:17",
+            "name": "Threading - Eyebrow ",
+            "price": 5,
+            "type": "service"
+          },
+          {
+            "id": "service:19",
+            "name": "Threading - Upper Lip",
+            "price": 3,
+            "type": "service"
+          }
+        ],
+        "name": "Suzana Yacob",
+        "product": 0,
+        "resourceName": "people/c4211349220082945276",
+        "service": 73,
+        "totalAmount": 73
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T05:15:00.000Z",
+        "createdAt": "2019-06-08T12:30:52.641Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "ad721cb0-7067-11e9-b40e-9b8bd9964cf7",
+        "items": [
+          {
+            "id": "service:20182",
+            "name": "Lashes - Full Set - Natural",
+            "price": 55,
+            "type": "service"
+          },
+          {
+            "id": "service:5",
+            "name": "Eye Mask",
+            "price": 5,
+            "type": "service"
+          },
+          {
+            "id": "service:17",
+            "name": "Threading - Eyebrow ",
+            "price": 5,
+            "type": "service"
+          }
+        ],
+        "name": "Hazel Lam",
+        "product": 0,
+        "resourceName": "people/c8057944287878625720",
+        "service": 65,
+        "totalAmount": 65
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T06:30:00.000Z",
+        "createdAt": "2019-05-15T10:59:29.490Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "836524e0-7700-11e9-b234-43bc8fd0df41",
+        "items": [
+          {
+            "id": "service:20181",
+            "name": "Lashes - Full Set - Dense",
+            "price": 65,
+            "type": "service"
+          },
+          {
+            "id": "service:5",
+            "name": "Eye Mask",
+            "price": 5,
+            "type": "service"
+          },
+          {
+            "id": "service:2a",
+            "name": "Lashes - Lower Set - Natural",
+            "price": 20,
+            "type": "service"
+          }
+        ],
+        "name": "Nic Chua",
+        "product": 0,
+        "resourceName": "people/c2292925457291518974",
+        "service": 90,
+        "totalAmount": 90
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T08:00:00.000Z",
+        "createdAt": "2019-06-08T08:41:42.125Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "3c4b49f0-7bcd-11e9-b234-43bc8fd0df41",
+        "items": [
+          {
+            "id": "service:20181",
+            "name": "Lashes - Full Set - Dense",
+            "price": 65,
+            "type": "service"
+          },
+          {
+            "id": "service:5",
+            "name": "Eye Mask",
+            "price": 5,
+            "type": "service"
+          }
+        ],
+        "name": "Niko",
+        "product": 0,
+        "resourceName": "people/c3484879736286647254",
+        "service": 70,
+        "totalAmount": 70
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T09:00:00.000Z",
+        "createdAt": "2019-05-22T14:16:05.911Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "237abee0-7c9c-11e9-b234-43bc8fd0df41",
+        "items": [
+          {
+            "id": "service:20181",
+            "name": "Lashes - Full Set - Dense",
+            "price": 65,
+            "type": "service"
+          },
+          {
+            "id": "service:5",
+            "name": "Eye Mask",
+            "price": 5,
+            "type": "service"
+          }
+        ],
+        "name": "Siti Onara",
+        "product": 0,
+        "resourceName": "people/c4930241473026832531",
+        "service": 70,
+        "totalAmount": 70
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T10:15:00.000Z",
+        "createdAt": "2019-06-08T08:55:49.876Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "45632170-7eac-11e9-9480-856b8f07af3b",
+        "items": [
+          {
+            "id": "service:13",
+            "name": "Waxing - Under Arm",
+            "price": 15,
+            "type": "service"
+          },
+          {
+            "id": "service:19",
+            "name": "Threading - Upper Lip",
+            "price": 3,
+            "type": "service"
+          },
+          {
+            "id": "service:17",
+            "name": "Threading - Eyebrow ",
+            "price": 5,
+            "type": "service"
+          },
+          {
+            "id": "service:20",
+            "name": "Threading - Lower Lip",
+            "price": 2,
+            "type": "service"
+          }
+        ],
+        "name": "Punitha Akka",
+        "product": 0,
+        "resourceName": "people/c488511416568198626",
+        "service": 25,
+        "totalAmount": 25
+      }
+    },
+    {
+      "doc": {
+        "additional": 0,
+        "apptDate": "2019-06-08T10:45:00.000Z",
+        "createdAt": "2019-06-06T07:16:23.179Z",
+        "deposit": 0,
+        "discount": 0,
+        "id": "fd9c3e70-882a-11e9-98e1-a7cdc4526f6f",
+        "items": [
+          {
+            "id": "service:20181",
+            "name": "Lashes - Full Set - Dense",
+            "price": 65,
+            "type": "service"
+          },
+          {
+            "id": "service:5",
+            "name": "Eye Mask",
+            "price": 5,
+            "type": "service"
+          }
+        ],
+        "name": "Jemima Sim",
+        "product": 0,
+        "resourceName": "people/c6572618528797709268",
+        "service": 70,
+        "totalAmount": 70
+      }
+    }
+  ]
+}
